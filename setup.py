@@ -7,4 +7,5 @@ setup(
     install_requires=[],           # dependencies if any
     author="Your Name",
     description="A simple Python program that prints Hello -- version 1!",
+    license = "MIT",
 )
