@@ -1,4 +1,4 @@
 somefile.log
 *.pyc
 *.log
-
+*.py
